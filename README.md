@@ -31,14 +31,5 @@ Designed for speed, simplicity, and real-world usability.
 - ⚡ **Backend API**: ASP.NET Core Web API  
 - 💬 **Swagger API Testing** Ready  
 
----
 
-## 🛠 Tech Stack
-
-| Layer        | Technology           |
-|--------------|--------------------|
-| Language     | C# (.NET 7+)        |
-| Framework    | ASP.NET Core Web API |
-| AI Service   |  Gemini API  |
-| Frontend     | HTML, CSS, JS       |
 
